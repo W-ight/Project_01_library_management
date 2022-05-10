@@ -1,0 +1,8 @@
+
+C_in_depth Deepali_srivastava 500 100
+Ansi_c E_Balagurusamy 570 50
+Engineering_mathematics Ramana 650 200
+Let_us_C Yashwanant_kanetkar 550 120
+Tokyo_ghoul Ken_kaneki 500 3
+Erased Satoru_Fujinuma 750 12
+Object_oriented_Programming_with_c++ E_Balagurusamy 633 25
